@@ -1,7 +1,7 @@
 # datafaker
 Fake Data Generator In Python
 
-Export Formats [csv,json,txt]
+Export Formats [csv,json,txt,sqlite]
 
 Usage:
 python3 export.py file_name format number_of_rows
